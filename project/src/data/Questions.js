@@ -100,3 +100,4 @@ const questions = [
         answer: "Un composant (Component)",
     }
 ];
+export default questions

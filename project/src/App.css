@@ -31,8 +31,9 @@ body {
 .footer {
   flex-shrink: 0;
   padding: 1rem;
-  background-color: #f8f8f8;
+  background-color: #3b3b3b;
   border-bottom: 1px solid #e7e7e7;
+  color: #e7e7e7;
 }
 
 .footer {
@@ -53,7 +54,7 @@ body {
 .navbar a {
   margin-left: 1rem;
   text-decoration: none;
-  color: #007bff;
+  color: #e7e7e7;
 }
 
 
